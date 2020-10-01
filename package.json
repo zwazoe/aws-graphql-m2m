@@ -1,0 +1,16 @@
+{
+  "name": "aws-graphql-m2m",
+  "version": "1.0.1",
+  "description": "Use this, since AWS doesn't offer m2m for graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zwazoe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zwazoe/aws-graphql-m2m.git"
+  },
+  "homepage": "https://github.com/zwazoe/aws-graphql-m2m.git"
+}
